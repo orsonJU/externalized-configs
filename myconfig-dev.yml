@@ -1,0 +1,3 @@
+server:
+  name: myconfig
+  profile: dev
